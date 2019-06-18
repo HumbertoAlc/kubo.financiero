@@ -1,5 +1,5 @@
 # kubo.financiero
-Ejercicio  1 Rotaciones
+Ejercicio  1 Rotaciones.
 1.- Primero cree una variable que hiba a contener mi  funcion.
 2.- Mi funcion contiene dos parametros "n" que es el numero de rotaciones y "array".
 3.-Dentro del bloque de codigo de mi funcion agrregue un for loop para que mi funcion se repitiera n cantidad de veces, i siempre menor que n
@@ -7,7 +7,7 @@ Ejercicio  1 Rotaciones
 5.- retorne
 6.- invoque a mi funcion pasandole n y array como argumentos.
 
-Ejercicio 2 Anagrama
+Ejercicio 2 Anagrama.
 1.-cree mi variable la cual contiene mi funcion, con dos parametros (str1, str2).
 2.-dentro de mi bloque de codigo de mi funcion cree una variable i = 0 para que funcionara como contador.
 3.-str1 y str2 les aplique el metodo esplit, para comvertirlos en array, y posteriormente ordenarlos de igual manera con el metodo sort.
