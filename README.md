@@ -1,5 +1,5 @@
 # kubo.financiero
-Ejercicio  1 Rotaciones.
+Ejercicio 1 Rotaciones.
 1.- Primero cree una variable que hiba a contener mi  funcion.
 2.- Mi funcion contiene dos parametros "n" que es el numero de rotaciones y "array".
 3.-Dentro del bloque de codigo de mi funcion agrregue un for loop para que mi funcion se repitiera n cantidad de veces, i siempre menor que n
