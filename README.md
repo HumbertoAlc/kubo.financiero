@@ -8,5 +8,5 @@ Ejercicio  1 Rotaciones
 6.- invoque a mi funcion pasandole n y array como argumentos.
 
 Ejercicio 2 Anagrama
-1.-
+1.-m
 
